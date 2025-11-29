@@ -19,7 +19,7 @@ While this account started for game development, it now hosts my engineering res
     *   *Dynamic visualization using Google Sheets API & JS.*
 
 ### 🔧 Open Source & Maintenance
-*   **Legacy Mod Support:** I maintain and refactor Java-based modifications for the community.
+*   **Legacy Mod Support:** Dabbling in updating and maintaining Java-based modifications (that I want to use) for the community.
 *   **Automation:** Developing robust JavaScript scripts for complex simulation environment interaction.
 
 ---
