@@ -23,7 +23,7 @@ While this account started for game development, it now hosts my engineering res
 *   **Automation:** Developing robust JavaScript scripts for complex simulation environment interaction.
 
 ---
-[LinkedIn Profile](LINK_TO_YOUR_LINKEDIN) | [Email Me](mailto:htsleung@connect.ust.hk)
+[LinkedIn Profile](https://www.linkedin.com/in/samuel-leung-622489213/) | [Email Me](mailto:htsleung@connect.ust.hk)
 
 <!--
 **CreepilyCreeper/CreepilyCreeper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
