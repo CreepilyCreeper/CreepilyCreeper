@@ -1,4 +1,4 @@
-# Hi, I'm Samuel Leung! 👋
+# Hi, I'm Samuel! 👋
 ### Mechanical Engineering & AI Student @ HKUST
 
 Welcome to my development portfolio. I bridge the gap between mechanical design and software automation.
