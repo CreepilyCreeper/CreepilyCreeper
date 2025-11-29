@@ -2,7 +2,7 @@
 ### Mechanical Engineering & AI Student @ HKUST
 
 Welcome to my development portfolio. I bridge the gap between mechanical design and software automation.
-While this account started for game development, it now hosts my engineering research and full-stack projects.
+While this account started for game development, it now hosts my engineering research and full-stack projects/experiments.
 
 ---
 
@@ -12,14 +12,14 @@ While this account started for game development, it now hosts my engineering res
 *   **[Exoskeleton Control Proposal](https://github.com/CreepilyCreeper/TCN-SEMG-Exoskeleton-Control)**
     *   *Research on Temporal Convolutional Networks (TCN) for real-time gait prediction.*
 
-### 💻 Full-Stack & Automation
+### 💻 Full-Stack Web Dev
 *   **[Civicenia Portal](https://github.com/civicenia.github.io)**
     *   *Serverless architecture using Cloudflare Workers & Decap CMS.*
 *   **[3D Tree Visualization](https://creepilycreeper.github.io/Relational-Structure-Visualizer/src/)**
     *   *Dynamic visualization using Google Sheets API & JS.*
 
-### 🔧 Open Source & Maintenance
-*   **Legacy Mod Support:** Dabbling in updating and maintaining Java-based modifications (that I want to use) for the community.
+### 🔧 other software stuff
+*   **Legacy Mod Support:** Dabbling in updating and maintaining Java mods (that I want to use) for the community.
 *   **Automation:** Developing robust JavaScript scripts for complex simulation environment interaction.
 
 ---
