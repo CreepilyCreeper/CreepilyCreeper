@@ -2,7 +2,7 @@
 ### Mechanical Engineering & AI Student @ HKUST
 
 Welcome to my development portfolio. I bridge the gap between mechanical design and software automation.
-While this account started for game development, it now hosts my engineering research and full-stack projects/experiments.
+While this account started for game devving/modding, it now hosts my engineering research and full-stack projects/experiments.
 
 ---
 
